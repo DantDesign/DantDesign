@@ -1,4 +1,4 @@
-# ¡Hola! Soy Dan 👋🎨💻📊
+# ¡Hola! Soy Dante 👋🎨💻📊
 
 Soy **Diseñador Gráfico** (graduado en la Universidad de Flores), **Diseñador UI/UX** y **Analista de Datos**. Trabajo de forma independiente creando soluciones visuales y técnicas estratégicas para clientes y marcas. 
 
