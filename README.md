@@ -30,7 +30,7 @@ Mi enfoque combina la estética visual y la experiencia de usuario con código f
 ### 🌐 Conectemos
 
 *   🎨 [Mi Portafolio Web / Behance] www.behance.net/dantebringa
-*   💼 [LinkedIn] linkedin.com/in/dantebringa
+*   💼 [LinkedIn] wwww.linkedin.com/in/dantebringa
 *   ✉️ [Escríbeme por Correo] dante_bringa@hotmail.com
 
 ---
