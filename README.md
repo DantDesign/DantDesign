@@ -10,7 +10,7 @@ Mi enfoque combina la estética visual y la experiencia de usuario con código f
 
 *   **🎨 Diseño & UI/UX:** Diseño Editorial | Packaging | Figma | Adobe Photoshop | Illustrator
 *   **💻 Front-End Development:** HTML5 | CSS3 | JavaScript (Vanilla JS)
-*   **📊 Datos & Automatización:** Python | SQL | Google Colab | Google Sheets (Advanced & Apps Script)
+*   **📊 Datos & Automatización:** Python | SQL | Google Colab | Google Sheets
 *   **🛒 E-commerce & Negocios:** Gestión Administrativa en E-commerce | Estrategia de Marketing
 
 ---
