@@ -18,8 +18,8 @@ Mi enfoque combina la estética visual y la experiencia de usuario con código f
 
 #### 💻 Front-End & UI/UX
 *   **[Nombre de tu Proyecto Web 1](link-al-repo):** Sitio web interactivo desarrollado con HTML, CSS y JavaScript nativo. [Ver Demo En Vivo](link-a-la-demo).
-*   **[Nombre de tu Proyecto Web 2](link-al-repo):** Interfaz/Landing page optimizada con un enfoque de diseño visual estratégico y maquetación limpia.
-
+*   **[Catálogo Digital de Pinturas](https://pintureriaporzio.vercel.app/):** Interfaz/Landing page optimizada con un enfoque de diseño visual estratégico y maquetación limpia.
+Catálogo Digital de Pinturas
 #### 📊 Análisis de Datos & Automatización
 *   **[Procesamiento de Datos en Colab](link-al-repo):** Notebook de Python en Google Colab enfocado en la limpieza, análisis y visualización de datasets.
 *   **[Automatización en Google Sheets](link-al-repo):** Conexión de scripts y automatizaciones para la gestión eficiente de datos de e-commerce o métricas comerciales.
