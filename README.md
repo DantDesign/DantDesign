@@ -17,7 +17,7 @@ Mi enfoque combina la estética visual y la experiencia de usuario con código f
 ### 📂 Proyectos Destacados
 
 #### 💻 Front-End & UI/UX
-*   **[Nombre de tu Proyecto Web 1](link-al-repo):** Sitio web interactivo desarrollado con HTML, CSS y JavaScript nativo. [Ver Demo En Vivo](link-a-la-demo).
+*   **[Proyecto Web - Portfolio](https://github.com/DantDesign/Portfolio):** Sitio web interactivo desarrollado con HTML, CSS y JavaScript nativo. [Ver Demo En Vivo](link-a-la-demo](https://portfolio-danbring.vercel.app/).
 *   **[Catálogo Digital Pinturería](https://github.com/DantDesign/Pintureria.Porzio):** Interfaz/Landing page optimizada con un enfoque de diseño visual estratégico y maquetación limpia.
 
 #### 📊 Análisis de Datos & Automatización
